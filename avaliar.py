@@ -6,22 +6,22 @@ tImovel = float
 
 #PREÇO DE IMÓVEIS EM BELFORD ROXO (METRO QUADRADO)
 
-Albuquerque
-Aldeia da Felicidade
-Areia Branca
-Andrade Araújo
-Apolo 11
-Benfica
-Boa Esperança
-Boassorte
-Bacia
-Boaventura
-Buriti
-Bairro das Graças
-Bairro das Luzes
-Bairro das Orquídeas
-Bairro do Outeiro
-Bairro do Vasco
+Albuquerque = 225.000
+AldeiadaFelicidade = 180.000
+AreiaBranca = 130.000
+AndradeAraújo = 150.000
+Apolo11 = 150.000
+Benfica = 250.000
+BoaEsperança = 180.000
+Boasorte = 120.000
+Bacia = 85.000
+Boaventura = 85.000
+Buriti = 290.000
+BairrodasGraças = 150.000
+BairrodasLuzes = 90.000
+BairrodasOrquídeas = 140.000
+BairrodoOuteiro = 150.000
+BairrodoVasco = 130.000
 Bairro Dois Irmãos
 Bairro Hinterlândia
 Bairro Modelo
@@ -70,7 +70,7 @@ Lote XV
 Maria Amália
 Machado
 Meu Cantinho
-nAurora = 1.764,7
+nAurora = 1.764
 Nova Piam
 Nossa Senhora do Carmo
 Parque Alvorada
