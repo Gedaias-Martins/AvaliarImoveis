@@ -22,55 +22,56 @@ BairrodasLuzes = 90.000
 BairrodasOrquídeas = 140.000
 BairrodoOuteiro = 150.000
 BairrodoVasco = 130.000
-Bairro Dois Irmãos
-Bairro Hinterlândia
-Bairro Modelo
-Bairro Nossa Senhora das Graças
-Barro Vermelho
-Bom Pastor
-Buraco da Onça
-Centro
-Dois Irmãos
-Estoril Carioca
-Foice
-General
-Gogó da Ema
-Guaraciaba
-Heliópolis
-Itaipu
-Jardim Amapá
-Jardim América
-Jardim Anápolis
-Jardim Brasil
-Jardim Cristina
-Jardim das Acácias
-Jardim das Estrelas
-Jardim Dimas Filho
-Jardim do Ipê
-Jardim dos Pinheiros
-Jardim Gláucia
-Jardim Ideal I
-Jardim Ideal II
-Jardim Lisboa
-Jardim Marajó
-Jardim Marquês do Pombal
-Jardim Panorama
-Jardim Patrícia
-Jardim Piedade
-Jardim Portugal
-Jardim Redentor
-Jardim Roseiral
-Jardim Santa Marta
-Jardim São Francisco de Assis
-Jardim Silvana
-Jardim Tonalegre
-Jardim Xavantes
-José da Planície
-Lote XV
-Maria Amália
-Machado
-Meu Cantinho
-nAurora = 1.764
+BairroDoisIrmãos = 150.000
+BairroHinterlândia = 150.000
+BairroModelo = 150.000
+BairroNossaSenhoradasGraças = 150.000
+BarroVermelho = 300.000
+BomPastor = 200.000
+BuracodaOnça = 85.000
+Centro = 60.000
+DoisIrmãos = 170.000
+EstorilCarioca = 240.000
+Foice = 125.000
+General = 219.990
+GogódaEma = 85.000 
+Guaraciaba = 70.000
+Heliópolis = 50.000
+Itaipu = 450.000
+JardimAmapá = 180.000
+JardimAmérica = 150.000
+JardimAnápolis = 120.000
+JardimBrasil = 120.000
+JardimCristina = 70.000
+JardimdasAcácias = 300.000
+JardimdasEstrelas = 120.000
+JardimDimasFilho = 449.020 
+JardimdoIpê = 35.000
+JardimdosPinheiros = 220.000
+JardimGláucia = 150.000
+JardimIdealI = 125.000
+JardimIdealII = 125.000
+JardimLisboa = 120.000
+JardimMarajó = 120.000
+JardimMarquêsdoPombal = 80.000
+JardimPanorama = 120.000
+JardimPatrícia = 200.000
+JardimPiedade = 170.000
+JardimPortugal = 200.000
+JardimRedentor = 70.000
+JardimRoseiral = 110.000
+JardimSantaMarta = 290.000
+JardimSãoFranciscodeAssis = 200.000
+JardimSilvana = 14.000
+JardimTonalegre = 170.000
+JardimXavantes = 220.000
+JosédaPlanície = 70.000
+LoteXV = 85.000
+MariaAmália = 235.000
+Machado = 380.000
+MeuCantinho = 70.000
+NovaAurora = 130.000
+#Segunda parte de Cadastro de imóveis em Belford Roxo 
 Nova Piam
 Nossa Senhora do Carmo
 Parque Alvorada
